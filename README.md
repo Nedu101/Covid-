@@ -1,1 +1,1 @@
-# Covid-
+# covid_19-case-predictor
